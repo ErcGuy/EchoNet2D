@@ -4,7 +4,11 @@
   <img src="assets/Icon.png" width="180"/>
 </p>
 
+🗓 Created: June 2025
+
 **EchoNet2D** is a PyTorch-based framework for training and evaluating a CNN model for 2D hand keypoint detection from RGB images. Designed around the FreiHAND dataset, it enables accurate landmark localization through a customizable training pipeline.
+
+This project was built to explore real-time hand tracking, and deepen my understanding of computer vision and artificial intelligence pipelines. I focused on optimizing model performance for 128x128 input to allow faster inference on CPU.
 
 > **Note:** Pretrained model weights are **not included** due to file size limits. Please train the model using the provided scripts.
 
@@ -65,7 +69,6 @@ git clone https://github.com/yourusername/EchoNet2D.git
 cd EchoNet2D
 pip install -r requirements.txt
 ```
----
 
 ## Acknowledgments
 
