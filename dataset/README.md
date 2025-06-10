@@ -4,7 +4,7 @@ This folder is intended to hold the FreiHAND dataset version 2 (FreiHAND_pub_v2)
 
 Due to the large size, the dataset is **not included** in this repository.
 
-Follow below instructions to set up and download
+Follow below instructions to set up and download:
 
 ## Dataset Setup
 
