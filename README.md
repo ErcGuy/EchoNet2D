@@ -10,7 +10,7 @@
 
 ---
 
-## Features
+## ✨ Features
 
 - Lightweight neural network for 21 hand keypoints (Not included due to size limits)
 - Uses publicly available FreiHAND dataset with 128x128 input resolution  
@@ -20,7 +20,7 @@
 
 ---
 
-## Getting Started
+## 🚦 Getting Started
 
 ### Requirements
 
@@ -45,7 +45,7 @@ To run:
 
 ---
 
-## Demo
+## 🚀 Demo
 
 Below is a sample (`UseModel.py`) prediction output:
 <p align="center">
