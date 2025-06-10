@@ -28,6 +28,8 @@
 
 See `requirements.txt` for the full list.
 
+---
+
 ## 📦 Pretrained Model
 
 ⚠️ **Note**: The trained model file (`EchoNet2D.pth`) is **not included** in this repository due to size limits.
@@ -37,6 +39,7 @@ To run:
 
 ➡️ After obtaining the model file, place it in the root project directory or update the path in `UseModel.py` accordingly.
 
+---
 
 ### Installation
 
