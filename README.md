@@ -63,3 +63,11 @@ Clone the repository:
 git clone https://github.com/yourusername/EchoNet2D.git
 cd EchoNet2D
 pip install -r requirements.txt
+```
+---
+
+## Acknowledgments
+
+This project uses the FreiHAND dataset created by Zimmermann et al.  
+Please refer to the [FreiHAND dataset page](https://lmb.informatik.uni-freiburg.de/resources/datasets/FreiHAND.en.html) for more information.  
+We gratefully acknowledge the original authors for making this dataset publicly available.
