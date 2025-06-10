@@ -20,6 +20,17 @@
 
 ---
 
+## 🚀 Demo
+
+Below is a sample (`UseModel.py`) prediction output:
+<p align="center">
+  <img src="assets/Figure.png" width="30%" alt="Figure 1"/>
+  <img src="assets/Figure_2.png" width="30%" alt="Figure 2"/>
+  <img src="assets/Figure_3.png" width="30%" alt="Figure 3"/>
+</p>
+
+---
+
 ## 🚦 Getting Started
 
 ### Requirements
@@ -45,16 +56,6 @@ To run:
 
 ---
 
-## 🚀 Demo
-
-Below is a sample (`UseModel.py`) prediction output:
-<p align="center">
-  <img src="assets/Figure.png" width="30%" alt="Figure 1"/>
-  <img src="assets/Figure_2.png" width="30%" alt="Figure 2"/>
-  <img src="assets/Figure_3.png" width="30%" alt="Figure 3"/>
-</p>
-
----
 ### Installation
 
 Clone the repository:
