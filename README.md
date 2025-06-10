@@ -10,9 +10,9 @@
 
 ## Features
 
-- Lightweight neural network for 21 hand keypoints  
-- Trained on publicly available FreiHAND dataset with 128x128 input resolution  
-- Includes data loading, training, evaluation, and visualization scripts, and a pretrained model
+- Lightweight neural network for 21 hand keypoints (Not included due to size limits)
+- Uses on publicly available FreiHAND dataset with 128x128 input resolution  
+- Includes data loading, training, evaluation, and visualization scripts
 - Simple Tkinter-based GUI for quick inference and visualization on new images  
 - Modular code structure for easy customization and extension
 
