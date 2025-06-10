@@ -4,7 +4,9 @@
   <img src="assets/Icon.png" width="180"/>
 </p>
 
-**EchoNet2D** is a PyTorch-based deep learning model designed for 2D hand keypoint detection from RGB images. It is trained primarily on the FreiHAND dataset and aims to provide accurate and efficient hand landmark localization suitable for research, prototyping, and integration into hand-tracking applications.
+**EchoNet2D** is a PyTorch-based framework for training and evaluating a CNN model for 2D hand keypoint detection from RGB images. Designed around the FreiHAND dataset, it enables accurate landmark localization through a customizable training pipeline—ideal for research, prototyping, or integrating into larger hand-tracking systems.
+
+> **Note:** Pretrained model weights are **not included** due to file size limits. Please train the model using the provided scripts.
 
 ---
 
