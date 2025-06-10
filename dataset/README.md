@@ -14,5 +14,6 @@ Follow below instructions to set up and download:
 2. Unzip the downloaded files.
 
 3. Place the unzipped folder inside your project directly in the 'dataset' folder (this one) under `dataset/FreiHAND_pub_v2/` so that files like `evaluation_K.json` and folders like `training/rgb/` are accessible at paths like:  
-   `dataset/FreiHAND_pub_v2/training_K.json`  
+   `dataset/FreiHAND_pub_v2/training_K.json`
+   `dataset/FreiHAND_pub_v2/training_XYZ.json`  
    `dataset/FreiHAND_pub_v2/training/rgb/`
