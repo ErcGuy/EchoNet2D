@@ -47,10 +47,6 @@ To run:
 
 ## Demo
 
-Here's an example of the UI:
-
-![UI Screenshot](assets/ui_example.png)
-
 Below is a sample ('UseModel.py') prediction output:
 <p align="center">
   <img src="assets/Figure_1.png" width="30%" alt="Figure 1"/>
