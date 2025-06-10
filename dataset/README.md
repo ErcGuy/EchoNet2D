@@ -9,7 +9,7 @@ Follow below instructions to set up and download:
 ## Dataset Setup
 
 1. Download the FreiHAND dataset v2 from the official page:  
-   [https://lmb.informatik.uni-freiburg.de/resources/datasets/FreiHAND.en.html](https://lmb.informatik.uni-freiburg.de/resources/datasets/FreiHAND.en.html)
+   [https://lmb.informatik.uni-freiburg.de/resources/datasets/FreiHAND.en.html](https://lmb.informatik.uni-freiburg.de/resources/datasets/FreihandDataset.en.html)
 
 2. Unzip the downloaded files.
 
