@@ -36,7 +36,7 @@ See `requirements.txt` for the full list.
 
 ## 📦 Pretrained Model
 
-⚠️ **Note**: The trained model file (`echo_model.pth`) is **not included** in this repository due to size limits, though (`TrainEchonet.py`) does automatically create the (`.pth`) file.
+⚠️ **Note**: The trained model file (`echo_model.pth`) is **not included** in this repository due to size limits, though `TrainEchonet.py` does automatically create the `.pth` file.
 
 To run:
 - You must train the model yourself using the FreiHAND dataset
