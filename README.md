@@ -26,7 +26,7 @@ This project was built to explore real-time hand tracking, and deepen my underst
 
 ## 🚀 Demo
 
-Below is a sample (`UseModel.py`) prediction output:
+Below is a sample (`UseModel.py`) prediction output after 13 epochs:
 <p align="center">
   <img src="assets/Figure.png" width="30%" alt="Figure 1"/>
   <img src="assets/Figure_2.png" width="30%" alt="Figure 2"/>
